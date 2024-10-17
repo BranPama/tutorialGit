@@ -1,0 +1,106 @@
+commit 7a756953ed8a891a27e807d88dabf9e9273542be
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 17:44:02 2024 -0500
+
+    agregando 2 parrafos
+
+commit 55186d123701166aa4fa0ba0892cc22f46940af4
+Merge: 8745654 55cd2cb
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 17:32:14 2024 -0500
+
+    resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 874565453bcee35ecb2d68145d4b3ab11d57f76a
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 16:50:46 2024 -0500
+
+    agregando estaciones del año con fecha de inicio
+
+commit 55cd2cbdc4ec1b66b31d9d28a59d4335af214bc8
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 16:50:46 2024 -0500
+
+    agregando las estaciones del año
+
+commit 87ac0b41fba18e2f6aa98a04acb85bd29d907f40
+Merge: eff6234 d660492
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 15:20:14 2024 -0500
+
+    comflito resuelto
+
+commit d660492e216ee1a3570196b46475f6b7a6366efe
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 11:54:01 2024 -0500
+
+    agregando index js al index.html
+
+commit eff6234c84fe5dae3f75bdae3f6ab4974b00401e
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 11:42:25 2024 -0500
+
+    Agregando contenido al index
+
+commit 08b91970715aac471ff23ae033156292f76a5fc0
+Merge: 3404b97 983963c
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 09:54:45 2024 -0500
+
+    Merge branch 'js'
+
+commit 983963c3bd5dbafbab26c7535a01d84e480b6da7
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 09:48:52 2024 -0500
+
+    creando index js
+
+commit 3404b97b0d4c6a4712ef55d112ea1e42ae3b1ca4
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 09:42:33 2024 -0500
+
+    creando estilos css
+
+commit c1aa0265ecdfe2d7a5cd4a374648b7e0d4f5acfd
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 09:31:39 2024 -0500
+
+    creando archivo index.html
+
+commit c8929727f410ed6433196e310f4068ba0a6f5e20
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 09:07:13 2024 -0500
+
+    ignorando archivos .exe
+
+commit 686b8b5aeedbcc3b981be7a11d1904bd7bd67046
+Author: BranPama <118131119+BranPama@users.noreply.github.com>
+Date:   Wed Oct 16 00:57:50 2024 -0500
+
+    Delete pruebra.txt
+
+commit 5ae4af87e09625ed36eb6a16c60c91c4fdff61d8
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Wed Oct 16 00:52:19 2024 -0500
+
+    probando
+
+commit 1ef7f06f48efd2a4e45c1bda8ba8a67360f34791
+Author: BranPama <118131119+BranPama@users.noreply.github.com>
+Date:   Tue Oct 15 17:58:05 2024 -0500
+
+    creando licencia
+    
+    Se crea la licencia y se sube el commit
+
+commit 229d362e49af9fc617d3ed85c228fab7100c74be
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Tue Oct 15 17:48:24 2024 -0500
+
+    agregando mas contenido al readme
+
+commit 7d432e13999bc9fbda2ad6204b8dbe03489586c9
+Author: Bran Pama <andrespama89@gmail.com>
+Date:   Tue Oct 15 17:32:36 2024 -0500
+
+    mi primer commit
